@@ -1,0 +1,33 @@
+*{
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+body{
+    display: grid;
+    content: center;
+    justify-content: center;
+
+}
+label{
+    font-size: 1.2em;
+}
+input{
+    height: 50px;
+    width: 200px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+button{
+    background-color: #4CAF50;
+    color: white;
+    /* padding: 15px 20px; */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1.2em;
+    height: 50px;
+    width: 100px;
+}
